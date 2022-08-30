@@ -1,0 +1,16 @@
+.title {
+	text-align: center;
+}
+
+.submit-btn {
+	text-align: center;
+}
+
+.registration-form{
+    /* background-color: red; */
+    width: 800px;
+	margin: 50px auto;
+	border-radius: 20px;
+	padding: 10px 10px 30px;
+	box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
